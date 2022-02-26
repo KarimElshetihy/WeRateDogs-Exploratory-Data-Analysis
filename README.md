@@ -1,0 +1,2 @@
+# WeRateDogs-Exploratory-Data-Analysis
+This project is a real-world data gathered from twitter account 'WeRateDogs'. This data is analysed using Python and its libraries, and the data is gathered from a variety of sources and in a variety of formats. The analysis will focus on assessing its quality and tidiness, then clean it. After cleaning the data, some insights will be cleared with visualizations to be easy to understand.
